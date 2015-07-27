@@ -1,3 +1,9 @@
+## 0.2.0
+* Improve comment colors
+
+## 0.1.1
+* Fix release
+
 ## 0.1.0 - First Release
-* Forked from https://github.com/silvestreh/atom-material-syntax
-* Updated the background color
+* Fork the thing from https://github.com/silvestreh/atom-material-syntax
+* Improve comment colors
