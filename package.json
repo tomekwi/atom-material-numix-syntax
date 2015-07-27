@@ -1,15 +1,16 @@
 {
-  "name": "atom-material-syntax",
+  "name": "atom-material-numix-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
-  "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
+  "version": "0.1.0",
+  "description": "A dark syntax theme for Atom. Uses Google's Material Design colors. Works well with Numix themes.",
   "keywords": [
     "syntax",
     "theme",
     "material",
-    "material design"
+    "material design",
+    "numix"
   ],
-  "repository": "https://github.com/silvestreh/atom-material-syntax",
+  "repository": "https://github.com/tomekwi/atom-material-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
