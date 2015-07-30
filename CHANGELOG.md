@@ -1,3 +1,6 @@
+## 0.2.1
+* Fix screenshot rendering on https://atom.io/themes/atom-material-numix-syntax
+
 ## 0.2.0
 * Improve comment colors
 
